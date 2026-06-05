@@ -31,7 +31,7 @@ Python, Pandas, Matplotlib, Seaborn
 https://github.com/SindhuKumbham/student-performance-dashboard
 
 **Live Demo Link:**  
-https://github.com/SindhuKumbham/student-performance-dashboard
+https://github.com/SindhuKumbham/student-performance-dashboard/tree/main
 
 **Presentation / Demo Video Link:**  
 <!-- Optional but recommended -->
