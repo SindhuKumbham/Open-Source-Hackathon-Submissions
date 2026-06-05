@@ -3,35 +3,35 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+ Kumbham Sindhu 
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+SindhuKumbham
 
 **Team Name:**  
-<!-- Write your team name -->
+Code Crew 
 
 **College/University:**  
-<!-- Write your college/university name -->
+Sreenidhi Institute of Science and Technology
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+ Student Performance Dashboard
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+An interactive dashboard that analyzes and visualizes student performance data to identify trends, patterns, and insights using Python.
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+Python, Pandas, Matplotlib, Seaborn
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+https://github.com/SindhuKumbham/student-performance-dashboard
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+
 
 **Presentation / Demo Video Link:**  
 <!-- Optional but recommended -->
